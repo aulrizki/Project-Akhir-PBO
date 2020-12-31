@@ -1,3 +1,11 @@
+Author OP WARNET
+Muhammad Aulia Rizki (1908107010033) *CEO
+Daffaq Syafiq Pasha  (1908107010077)
+Muhammad Nafis       (1908107010078)
+Ridha Arlian Alhaqie (1908107010075)
+Sayed Habil Alhabsyi (1908107010065)
+Muammar Yasir        (1908107010079)
+
 Program ini adalah program yang ditujukan untuk memudahkan konsumen dalam pemesanan tiket pesawat 
 berbasis Java Swing dan Java OOP.
 
@@ -12,9 +20,9 @@ Pada IDE Lain :
 - $ java BeliDong
 
 Alur Program :
-Ketika user membuka program maka ia akan diberi 2 pilihan yaitu :
-- Informasi Penerbangan 
-- Pemesanan Tiket
+- Ketika user membuka program maka ia akan diberi 2 pilihan yaitu :
+   * Informasi Penerbangan 
+   * Pemesanan Tiket
 - Namun user diharuskan untuk mengecek informasi penerbangan terlebih dahulu sebelum melakukan pemesanan tiket.
 - Setelah user mengecek informasi penerbangan, lalu pilih pemesanan tiket.
 - Pada menu pemesanan tiket user harus mengisi data nama, kelas penerbangan, maskapai, tujuan, dan jadwal.
